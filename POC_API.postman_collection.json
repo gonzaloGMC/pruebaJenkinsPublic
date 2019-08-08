@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "GET /Users",
+			"name": "GET /Userss",
 			"event": [
 				{
 					"listen": "test",
